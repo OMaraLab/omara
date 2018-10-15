@@ -152,7 +152,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'omara', 'omara Documentation',
-     author, 'omara', 'All things O'Mara',
+     author, 'omara', "All things O'Mara",
      'Miscellaneous'),
 ]
 
